@@ -1,3 +1,3 @@
 # testgit
- git hub is bad ass.
+ git hub intro
 git hub start
